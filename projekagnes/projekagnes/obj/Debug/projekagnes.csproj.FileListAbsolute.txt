@@ -1,0 +1,7 @@
+C:\Users\abcde\source\repos\projekagnes\projekagnes\obj\Debug\projekagnes.csproj.AssemblyReference.cache
+C:\Users\abcde\source\repos\projekagnes\projekagnes\obj\Debug\projekagnes.csproj.CoreCompileInputs.cache
+C:\Users\abcde\source\repos\projekagnes\projekagnes\bin\Debug\projekagnes.exe.config
+C:\Users\abcde\source\repos\projekagnes\projekagnes\bin\Debug\projekagnes.exe
+C:\Users\abcde\source\repos\projekagnes\projekagnes\bin\Debug\projekagnes.pdb
+C:\Users\abcde\source\repos\projekagnes\projekagnes\obj\Debug\projekagnes.exe
+C:\Users\abcde\source\repos\projekagnes\projekagnes\obj\Debug\projekagnes.pdb
